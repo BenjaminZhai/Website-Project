@@ -1,0 +1,27 @@
+html{
+    background:url("gods.jpeg") no-repeat center fixed;
+    background-size: cover;
+}
+body{
+    background: rgba(255, 255, 255, 0.8);
+    width: 550px;
+    padding: 50px 100px;
+    margin: 30px auto;
+    border-radius: 25px;
+}
+
+a{
+    color: blue;
+    text-decoration: none;
+    
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+
+
+#homepic{
+    width: 550px;
+}
